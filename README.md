@@ -1,0 +1,1 @@
+# Stock-Daily-Trend-Checker
