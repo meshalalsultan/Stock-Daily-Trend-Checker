@@ -1,4 +1,4 @@
-# Stock Daily Trend Checker
+# Stock Daily Trend 
 
 ## The Trend is the king ,  Do not trade againest the trend , and many more WARNINGS from the trend wave .
 
